@@ -1,0 +1,10 @@
+    2  r -t testcases/short2.rep 
+    3  bt
+    4  r -t testcases/short2.rep 
+    5  bt
+    6  q
+    7  q
+    8  r -t testcases/short1.rep 
+    9  bt
+   10  q
+   11  show commands
